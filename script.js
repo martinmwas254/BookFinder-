@@ -28,6 +28,6 @@ function getbooks() {
       resultsDiv.appendChild(bookList);
     })
     .catch((error) => {
-      console.error("Error fetching data:", error);
+      console.error("Error occurred fetching data:", error);
     });
 }
