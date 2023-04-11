@@ -10,10 +10,8 @@ bookFinder provide a way for users to browse through a selection of books bt ent
 * An internet connection.
 * Browser.
 * javaScript allowed to run on the browser. 
-## Known Bugs
-
 ## Technologies Used
-Languages used include: HTML, CSS, javaScript, Bootstrap and jQuery. Tools used to code is Microsofts Visual studio code.
+Languages used include: HTML, CSS, javaScript, Bootstrap. Tools used to code is Microsofts Visual studio code.
 ## Support and contact details
 My contact is martin.mwangi01@gmail.com suppose you come across any challenges or would like to give your feedback and suggestions. 
 ### License
