@@ -5,7 +5,7 @@
 #### By **MARTIN MWANGI**
 
 ## Description
-bookFinder provide a way for users to browse through a selection of books bt entering query
+bookFinder provide a way for users to browse through a selection of books by entering search term.
 ## Setup/Installation Requirements
 * An internet connection.
 * Browser.
